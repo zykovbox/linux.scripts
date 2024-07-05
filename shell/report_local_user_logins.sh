@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # DESC: lookup local user in /etc/passwd and report successful logins 25h back
 # Copyright (c) Chris Ruettimann <chris@bitbull.ch>
 
